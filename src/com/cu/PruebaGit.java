@@ -21,4 +21,9 @@ public class PruebaGit {
     public void setOneToOne(OtraClase oneToOne) {
         this.oneToOne = oneToOne;
     }
+
+
+
+
+
 }
