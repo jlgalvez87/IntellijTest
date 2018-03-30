@@ -4,5 +4,7 @@ import java.io.Serializable;
 
 public class OtraClase implements Serializable {
 
-    private String hola = "Saludando";
+    private String hola = "Saludando a pp";
+
+
 }
