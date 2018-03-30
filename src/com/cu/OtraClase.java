@@ -6,5 +6,4 @@ public class OtraClase implements Serializable {
 
     private String hola = "Saludando a pp";
 
-
 }
