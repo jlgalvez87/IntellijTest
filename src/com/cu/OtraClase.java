@@ -9,4 +9,6 @@ public class OtraClase implements Serializable {
     private PruebaGit pruebaGit;
     private PruebaGit pruebaGitTest;
 
+    private int value = 1200;
+
 }
